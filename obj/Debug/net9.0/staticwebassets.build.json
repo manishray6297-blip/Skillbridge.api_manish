@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "afbJ8CwG7VLoQNs28Hx5XWH5igPYOTOuwO07SYIwr3Q=",
+  "Source": "SkillBridge.Api",
+  "BasePath": "_content/SkillBridge.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
